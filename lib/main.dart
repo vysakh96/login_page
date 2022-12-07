@@ -47,7 +47,7 @@ class LoginApp extends StatelessWidget {
               ),
               SizedBox(height: 30,),
               Container(
-                height: 40,
+                height: 50,
                 width: 80,
                 decoration: 
                 BoxDecoration(
